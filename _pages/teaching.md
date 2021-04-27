@@ -2,10 +2,18 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Teaching Experience
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+I am passionate about teaching and have TAed a number of classes.
 
-Organize your courses by years, topics, or universities, however you like!
+**MIT**  
+6.814 Database Systems, Spring 2021  
+
+**CMU**  
+15-445 Database Systems, Fall 2018  
+15-316 Software Foundations of Security and Privacy, Spring 2018  
+15-414 Bug Catching: Automatic Program Verification and Testing, Fall 2017  
+15-214 Principles of Software System Construction, Spring 2016, Fall 2016, Spring 2017  
+15-150 Functional Programming, Fall 2015  

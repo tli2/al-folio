@@ -3,20 +3,19 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: (Long Last) Name
-email: you@example.com
+first_name: Tianyu 
+middle_name: 
+last_name: Li
+email: litianyu@mit.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Tianyu's personal website 
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
-url:  # the base hostname & protocol for your site
-baseurl: /al-folio # the subpath of your site, e.g. /blog/
-last_updated: false # set to true if you want to display last updated in the footer
+url: https://tli2.github.io/  # the base hostname & protocol for your site
+baseurl: # the subpath of your site, e.g. /blog/
+last_updated: true # set to true if you want to display last updated in the footer
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -32,15 +31,15 @@ footer_fixed: true
 # Display links to the page with a preview object on social media.
 # To achieve this, change serve_og_meta to true and then provide the URL of the
 # preview image as the value of og_image.
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
-twitter_username: # your Twitter handle
+github_username: tli2# your GitHub user name
+twitter_username: tianyu_li_# your Twitter handle
 linkedin_username: # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
@@ -51,16 +50,15 @@ research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
 keybase_username: # your keybase user name
 
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+contact_note: 
 
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
+google_analytics: # out your google-analytics code
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
+blog_name:  # your blog must have a name for it to show up in the nav bar
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 
@@ -69,7 +67,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: # put your disqus shortname
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -82,7 +80,7 @@ collections:
     output: true
     permalink: /news/:path/
   projects:
-    output: true
+    output: false
     permalink: /projects/:path/
 
 news_limit: 5
@@ -126,7 +124,7 @@ plugins:
 
 scholar:
 
-  last_name: Einstein
+  last_name: Li
 
   style: apa
   locale: en
