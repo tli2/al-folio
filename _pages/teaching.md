@@ -9,7 +9,7 @@ nav: true
 I am passionate about teaching and have TAed a number of classes.
 
 **MIT**  
-6.814 Database Systems, Spring 2021  
+6.814/6.830 Database Systems, Spring 2021  
 
 **CMU**  
 15-445 Database Systems, Fall 2018  
