@@ -19,5 +19,5 @@ social: true  # includes social icons at the bottom of the page
 I am currently a PhD student at [MIT DSG](http://dsg.csail.mit.edu/) working with
 [Prof. Sam Madden](http://db.csail.mit.edu/madden/). Before joining MIT, I worked with
 [the infamous Andy Pavlo](http://www.cs.cmu.edu/~pavlo/) at
-[the CMU terrier club](https://noise.page/), where I received my bachelor's and master's degree
+[the CMU terrier club](https://noisepage.com/people/), where I received my bachelor's and master's degree
 in computer science.
